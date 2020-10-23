@@ -3,7 +3,7 @@ import plotly.express as px
 import datetime
 import streamlit as st
 
-st.title('Inetum Coffee Analytics')
+st.title('Inetum Coffee Analytics with Streamlit')
 
 
 data_coffee = pd.read_csv("./dataset.csv")
