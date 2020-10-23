@@ -1,0 +1,331 @@
+type,name,intensity,unit_price,quantity30,quantity50,validation_date,gender,prix_total
+ristretto,Ristretto Intenso,12,0.3,1.0,0.0,2019-01-14 12:42:33,M,9.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+ristretto,Ristretto Intenso,12,0.3,1.0,0.0,2019-01-14 12:42:33,M,9.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2019-02-11 16:31:58,M,15.0
+ristretto,Ristretto Intenso,12,0.3,1.0,0.0,2019-02-11 16:31:58,M,9.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2019-04-25 07:51:14,M,15.0
+ristretto,Ristretto Intenso,12,0.3,1.0,0.0,2019-04-25 07:51:14,M,9.0
+ristretto,Ristretto Intenso,12,0.3,1.0,0.0,2019-06-07 11:45:42,M,9.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2019-11-05 15:46:56,M,15.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2020-01-17 16:13:03,M,15.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+ristretto,Ristretto Intenso,12,0.3,1.0,0.0,2020-10-16 14:21:28,M,9.0
+ristretto,Ristretto Intenso,12,0.3,0.0,1.0,2020-10-16 14:21:28,M,15.0
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2019-01-14 12:42:33,M,17.5
+ristretto,Ristretto Origin India,10,0.35,1.0,0.0,2019-02-11 16:31:58,M,10.5
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2019-03-22 13:34:32,F,17.5
+ristretto,Ristretto Origin India,10,0.35,1.0,0.0,2019-03-22 13:34:32,M,10.5
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2019-04-25 07:51:14,M,17.5
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2019-04-25 07:51:14,M,17.5
+ristretto,Ristretto Origin India,10,0.35,1.0,0.0,2019-06-07 11:45:42,M,10.5
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2019-06-07 11:45:42,M,17.5
+ristretto,Ristretto Origin India,10,0.35,1.0,0.0,2019-06-07 11:45:42,M,10.5
+ristretto,Ristretto Origin India,10,0.35,1.0,0.0,2019-08-26 12:00:59,M,10.5
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2019-10-08 05:24:26,M,17.5
+ristretto,Ristretto Origin India,10,0.35,0.0,2.0,2019-12-16 17:28:53,M,35.0
+ristretto,Ristretto Origin India,10,0.35,1.0,0.0,2020-01-17 16:13:03,M,10.5
+ristretto,Ristretto Origin India,10,0.35,1.0,0.0,2020-01-17 16:13:03,M,10.5
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2020-02-26 17:27:24,M,17.5
+ristretto,Ristretto Origin India,10,0.35,0.0,2.0,2020-02-26 17:27:24,M,35.0
+ristretto,Ristretto Origin India,10,0.35,0.0,2.0,2020-06-30 14:42:00,M,35.0
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2020-06-30 14:42:00,M,17.5
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2020-10-16 14:21:28,M,17.5
+ristretto,Ristretto Origin India,10,0.35,0.0,1.0,2020-10-16 14:21:28,F,17.5
+ristretto,Ristretto,9,0.3,0.0,1.0,2019-02-11 16:31:58,M,15.0
+ristretto,Ristretto,9,0.3,0.0,1.0,2019-02-11 16:31:58,F,15.0
+ristretto,Ristretto,9,0.3,0.0,1.0,2019-03-22 13:34:32,F,15.0
+ristretto,Ristretto,9,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+ristretto,Ristretto,9,0.3,0.0,1.0,2019-06-07 11:45:42,F,15.0
+ristretto,Ristretto,9,0.3,1.0,0.0,2019-08-26 12:00:59,M,9.0
+ristretto,Ristretto,9,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+ristretto,Ristretto,9,0.3,0.0,2.0,2019-11-05 15:46:56,F,30.0
+ristretto,Ristretto,9,0.3,0.0,1.0,2019-11-05 15:46:56,F,15.0
+ristretto,Ristretto,9,0.3,0.0,1.0,2020-01-17 16:13:03,M,15.0
+ristretto,Ristretto,9,0.3,0.0,3.0,2020-01-17 16:13:03,F,45.0
+ristretto,Ristretto,9,0.3,0.0,2.0,2020-02-26 17:27:24,F,30.0
+ristretto,Ristretto,9,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+ristretto,Ristretto,9,0.3,1.0,0.0,2020-06-30 14:42:00,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-01-14 12:42:33,M,9.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-02-11 16:31:58,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-02-11 16:31:58,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-02-11 16:31:58,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-02-11 16:31:58,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,2.0,2019-03-22 13:34:32,M,30.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-03-22 13:34:32,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-04-25 07:51:14,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-04-25 07:51:14,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-06-07 11:45:42,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-06-07 11:45:42,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,2.0,2019-08-26 12:00:59,M,30.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-08-26 12:00:59,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-10-08 05:24:26,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-10-08 05:24:26,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-10-08 05:24:26,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,2.0,2019-10-08 05:24:26,M,30.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-11-05 15:46:56,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-11-05 15:46:56,F,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-12-16 17:28:53,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2019-12-16 17:28:53,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2019-12-16 17:28:53,F,9.0
+espresso,Espresso Forte,7,0.3,0.0,2.0,2019-12-16 17:28:53,M,30.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2020-01-17 16:13:03,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2020-02-26 17:27:24,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2020-06-30 14:42:00,M,9.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2020-06-30 14:42:00,M,9.0
+espresso,Espresso Forte,7,0.3,1.0,0.0,2020-09-15 07:29:48,M,9.0
+espresso,Espresso Forte,7,0.3,0.0,2.0,2020-09-15 07:29:48,M,30.0
+espresso,Espresso Decaffeinato,7,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+espresso,Espresso Decaffeinato,7,0.3,1.0,0.0,2019-06-07 11:45:42,M,9.0
+espresso,Espresso Decaffeinato,7,0.3,1.0,0.0,2019-08-26 12:00:59,F,9.0
+espresso,Espresso Decaffeinato,7,0.3,1.0,0.0,2019-08-26 12:00:59,M,9.0
+espresso,Espresso Decaffeinato,7,0.3,1.0,0.0,2020-06-30 14:42:00,M,9.0
+espresso,Espresso Decaffeinato,7,0.3,1.0,0.0,2020-09-15 07:29:48,M,9.0
+espresso,Espresso Decaffeinato,7,0.3,0.0,1.0,2020-10-16 14:21:28,M,15.0
+espresso,Espresso Vanilla,7,0.35,1.0,0.0,2019-01-14 12:42:33,M,10.5
+espresso,Espresso Vanilla,7,0.35,0.0,1.0,2019-03-22 13:34:32,M,17.5
+espresso,Espresso Vanilla,7,0.35,0.0,2.0,2019-03-22 13:34:32,M,35.0
+espresso,Espresso Vanilla,7,0.35,0.0,1.0,2019-04-25 07:51:14,F,17.5
+espresso,Espresso Vanilla,7,0.35,1.0,0.0,2019-04-25 07:51:14,M,10.5
+espresso,Espresso Vanilla,7,0.35,1.0,0.0,2019-08-26 12:00:59,M,10.5
+espresso,Espresso Vanilla,7,0.35,1.0,0.0,2019-10-08 05:24:26,M,10.5
+espresso,Espresso Vanilla,7,0.35,0.0,1.0,2019-10-08 05:24:26,M,17.5
+espresso,Espresso Vanilla,7,0.35,1.0,0.0,2019-12-16 17:28:53,M,10.5
+espresso,Espresso Vanilla,7,0.35,0.0,1.0,2020-02-26 17:27:24,M,17.5
+espresso,Espresso Vanilla,7,0.35,1.0,0.0,2020-06-30 14:42:00,M,10.5
+espresso,Espresso Vanilla,7,0.35,0.0,2.0,2020-09-15 07:29:48,M,35.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2019-01-14 12:42:33,M,9.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2019-01-14 12:42:33,M,9.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-02-11 16:31:58,M,15.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2019-02-11 16:31:58,M,9.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-04-25 07:51:14,F,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2019-06-07 11:45:42,M,9.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2019-08-26 12:00:59,M,9.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,2.0,2019-10-08 05:24:26,M,30.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-11-05 15:46:56,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-11-05 15:46:56,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-11-05 15:46:56,M,15.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2019-11-05 15:46:56,F,9.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-12-16 17:28:53,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2019-12-16 17:28:53,M,15.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2019-12-16 17:28:53,M,9.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2020-01-17 16:13:03,M,15.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2020-01-17 16:13:03,M,15.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2020-02-26 17:27:24,M,9.0
+espresso,Espresso Leggero,6,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2020-02-26 17:27:24,M,9.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2020-02-26 17:27:24,M,9.0
+espresso,Espresso Leggero,6,0.3,1.0,0.0,2020-06-30 14:42:00,M,9.0
+espresso,Espresso Leggero,6,0.3,0.0,2.0,2020-09-15 07:29:48,M,30.0
+espresso,Espresso Caramel,7,0.35,1.0,0.0,2019-08-26 12:00:59,M,10.5
+espresso,Espresso Caramel,7,0.35,1.0,0.0,2019-08-26 12:00:59,F,10.5
+espresso,Espresso Caramel,7,0.35,1.0,0.0,2019-10-08 05:24:26,M,10.5
+espresso,Espresso Caramel,7,0.35,0.0,1.0,2020-02-26 17:27:24,M,17.5
+espresso,Espresso Caramel,7,0.35,1.0,0.0,2020-06-30 14:42:00,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-01-14 12:42:33,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-02-11 16:31:58,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-02-11 16:31:58,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2019-03-22 13:34:32,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2019-03-22 13:34:32,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,2.0,0.0,2019-04-25 07:51:14,M,21.0
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-04-25 07:51:14,F,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-06-07 11:45:42,F,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-06-07 11:45:42,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2019-08-26 12:00:59,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-08-26 12:00:59,F,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,1.0,2019-08-26 12:00:59,F,28.0
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-08-26 12:00:59,F,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-08-26 12:00:59,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2019-10-08 05:24:26,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-10-08 05:24:26,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-10-08 05:24:26,F,10.5
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2019-10-08 05:24:26,F,17.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2019-11-05 15:46:56,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,1.0,2019-11-05 15:46:56,F,28.0
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2019-12-16 17:28:53,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,1.0,2019-12-16 17:28:53,F,28.0
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2020-01-17 16:13:03,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2020-01-17 16:13:03,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2020-01-17 16:13:03,F,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2020-02-26 17:27:24,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,1.0,2020-02-26 17:27:24,F,28.0
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2020-03-05 10:13:37,F,10.5
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2020-06-30 14:42:00,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,2.0,2020-06-30 14:42:00,F,45.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2020-06-30 14:42:00,M,10.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,2.0,2020-09-15 07:29:48,F,45.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2020-09-15 07:29:48,F,10.5
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2020-09-15 07:29:48,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,0.0,2020-10-16 14:21:28,F,10.5
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2020-10-16 14:21:28,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,0.0,1.0,2020-10-16 14:21:28,M,17.5
+espresso,Espresso Origin Brazil,4,0.35,1.0,3.0,2020-10-16 14:21:28,F,62.99999999999999
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-01-14 12:42:33,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-01-14 12:42:33,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-01-14 12:42:33,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-01-14 12:42:33,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-01-14 12:42:33,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,2.0,2019-02-11 16:31:58,M,35.0
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-02-11 16:31:58,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-02-11 16:31:58,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-02-11 16:31:58,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-02-11 16:31:58,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-03-22 13:34:32,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-03-22 13:34:32,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-03-22 13:34:32,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-04-25 07:51:14,F,17.5
+lungo,Lungo Origin Guatemala,6,0.35,2.0,0.0,2019-04-25 07:51:14,M,21.0
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-04-25 07:51:14,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,2.0,2019-06-07 11:45:42,M,35.0
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-06-07 11:45:42,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-06-07 11:45:42,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-08-26 12:00:59,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-08-26 12:00:59,F,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-08-26 12:00:59,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-10-08 05:24:26,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-10-08 05:24:26,F,17.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-11-05 15:46:56,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-11-05 15:46:56,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-11-05 15:46:56,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-11-05 15:46:56,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-11-05 15:46:56,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-11-05 15:46:56,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,2.0,1.0,2019-11-05 15:46:56,F,38.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-12-16 17:28:53,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-12-16 17:28:53,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2019-12-16 17:28:53,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,2.0,2019-12-16 17:28:53,M,35.0
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2019-12-16 17:28:53,F,17.5
+lungo,Lungo Origin Guatemala,6,0.35,2.0,0.0,2020-01-17 16:13:03,M,21.0
+lungo,Lungo Origin Guatemala,6,0.35,0.0,2.0,2020-01-17 16:13:03,M,35.0
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2020-01-17 16:13:03,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2020-01-17 16:13:03,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-02-26 17:27:24,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,2.0,2020-02-26 17:27:24,M,35.0
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-02-26 17:27:24,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-02-26 17:27:24,F,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,2.0,2020-02-26 17:27:24,M,35.0
+lungo,Lungo Origin Guatemala,6,0.35,1.0,2.0,2020-02-26 17:27:24,M,45.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-02-26 17:27:24,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2020-06-30 14:42:00,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-06-30 14:42:00,F,17.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2020-06-30 14:42:00,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2020-06-30 14:42:00,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-09-15 07:29:48,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2020-09-15 07:29:48,M,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-09-15 07:29:48,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-09-15 07:29:48,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,2.0,2020-10-16 14:21:28,M,35.0
+lungo,Lungo Origin Guatemala,6,0.35,1.0,0.0,2020-10-16 14:21:28,F,10.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-10-16 14:21:28,M,17.5
+lungo,Lungo Origin Guatemala,6,0.35,0.0,1.0,2020-10-16 14:21:28,M,17.5
+lungo,Lungo Forte,4,0.3,1.0,0.0,2019-01-14 12:42:33,M,9.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2019-01-14 12:42:33,M,9.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2019-01-14 12:42:33,M,9.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2019-02-11 16:31:58,F,9.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-04-25 07:51:14,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2019-06-07 11:45:42,M,9.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-06-07 11:45:42,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,2.0,2019-08-26 12:00:59,M,30.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2019-08-26 12:00:59,F,9.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-08-26 12:00:59,F,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-08-26 12:00:59,F,15.0
+lungo,Lungo Forte,4,0.3,0.0,2.0,2019-10-08 05:24:26,M,30.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-10-08 05:24:26,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-10-08 05:24:26,M,15.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2019-11-05 15:46:56,M,9.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2019-11-05 15:46:56,F,9.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2019-11-05 15:46:56,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,2.0,2019-12-16 17:28:53,M,30.0
+lungo,Lungo Forte,4,0.3,0.0,2.0,2019-12-16 17:28:53,M,30.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2020-01-17 16:13:03,M,15.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2020-01-17 16:13:03,M,9.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2020-01-17 16:13:03,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,2.0,2020-02-26 17:27:24,M,30.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2020-02-26 17:27:24,M,15.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2020-02-26 17:27:24,M,9.0
+lungo,Lungo Forte,4,0.3,0.0,1.0,2020-06-30 14:42:00,F,15.0
+lungo,Lungo Forte,4,0.3,0.0,2.0,2020-06-30 14:42:00,M,30.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2020-09-15 07:29:48,M,9.0
+lungo,Lungo Forte,4,0.3,0.0,2.0,2020-09-15 07:29:48,M,30.0
+lungo,Lungo Forte,4,0.3,1.0,0.0,2020-10-16 14:21:28,F,9.0
+lungo,Lungo Decaffeinato,4,0.3,0.0,2.0,2019-04-25 07:51:14,M,30.0
+lungo,Lungo Decaffeinato,4,0.3,1.0,0.0,2019-08-26 12:00:59,F,9.0
+lungo,Lungo Decaffeinato,4,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+lungo,Lungo Decaffeinato,4,0.3,1.0,1.0,2019-11-05 15:46:56,F,24.0
+lungo,Lungo Decaffeinato,4,0.3,0.0,2.0,2019-12-16 17:28:53,M,30.0
+lungo,Lungo Decaffeinato,4,0.3,1.0,0.0,2020-02-26 17:27:24,F,9.0
+lungo,Lungo Decaffeinato,4,0.3,0.0,2.0,2020-06-30 14:42:00,M,30.0
+lungo,Lungo Decaffeinato,4,0.3,1.0,0.0,2020-09-15 07:29:48,F,9.0
+lungo,Lungo Decaffeinato,4,0.3,1.0,0.0,2020-10-16 14:21:28,M,9.0
+lungo,Lungo Decaffeinato,4,0.3,0.0,1.0,2020-10-16 14:21:28,M,15.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2019-01-14 12:42:33,M,15.0
+lungo,Lungo Leggero,2,0.3,1.0,0.0,2019-02-11 16:31:58,F,9.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2019-02-11 16:31:58,M,15.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2019-03-22 13:34:32,M,15.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2019-08-26 12:00:59,M,15.0
+lungo,Lungo Leggero,2,0.3,1.0,0.0,2019-08-26 12:00:59,M,9.0
+lungo,Lungo Leggero,2,0.3,1.0,0.0,2019-08-26 12:00:59,M,9.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2019-08-26 12:00:59,F,15.0
+lungo,Lungo Leggero,2,0.3,1.0,0.0,2019-08-26 12:00:59,F,9.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2019-10-08 05:24:26,M,15.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2019-10-08 05:24:26,M,15.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2019-11-05 15:46:56,M,15.0
+lungo,Lungo Leggero,2,0.3,0.0,2.0,2020-01-17 16:13:03,M,30.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2020-01-17 16:13:03,M,15.0
+lungo,Lungo Leggero,2,0.3,1.0,0.0,2020-01-17 16:13:03,M,9.0
+lungo,Lungo Leggero,2,0.3,0.0,1.0,2020-02-26 17:27:24,F,15.0
+lungo,Lungo Leggero,2,0.3,0.0,2.0,2020-09-15 07:29:48,M,30.0
+lungo,Lungo Leggero,2,0.3,1.0,0.0,2020-10-16 14:21:28,M,9.0
+lungo,Lungo Leggero,2,0.3,0.0,2.0,2020-10-16 14:21:28,M,30.0
